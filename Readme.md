@@ -97,9 +97,8 @@
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://yashraj.me  
+- 🌍 Portfolio: https://yashrajverma.vercel.app  
 - 💼 LinkedIn: https://linkedin.com/in/theyashrajverma  
-- 🐦 Twitter: https://x.com/yashrajvrma  
 
 ---
 
